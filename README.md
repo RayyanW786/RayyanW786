@@ -1,6 +1,12 @@
+<p align="center">
+   <a href="https://discord.com/users/613752401878450176">
+      <img src="https://lanyard.cnrad.dev/api/759180080328081450?theme=dark&animated=true" />
+   </a>
+</p>
+
+
 - 👋 Hi, I’m @RayyanW786
-- 👀 I’m interested in medicine, coding and gaming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding and have my own discord bot
 - 📫 How to reach me - Add me on discord Ray786#0001
 
 <!---
