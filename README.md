@@ -6,8 +6,8 @@
 
 
 - 👋 Hi, I’m @RayyanW786
-- 👀 I’m interested in coding and have my own discord bot
-- 📫 How to reach me - Add me on discord Ray786#0001
+- 👀 I’m interested in coding
+- 📫 Add me on discord Ray786
 
 <!---
 RayyanW786/RayyanW786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
